@@ -9,8 +9,16 @@
 ## Can Wait
 - Proshow
 - Merch
+- Schedule
 ## Pages
-### Registration Form
+### Login + Register
+Constraints and Validations:
+
+- Email validation
+- Phone number validation
+- Year of study < 6
+- Check if the email has already registered (register page only)
+### Event Registration Form
 Fields:
 
 - Transaction Id (check the UPI transaction id length and add required constraints)
