@@ -1,9 +1,9 @@
-Pending pages for the main website
-Urgent
+# Pending pages for the main website
+## Urgent
 - Login and Register
 - Registeration Form
 - Profile Dashboard
 - About Us
-Can Wait
+## Can Wait
 - Proshow
 - Merch
