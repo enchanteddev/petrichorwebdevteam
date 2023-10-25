@@ -1,0 +1,6 @@
+Pending pages for the main website
+- Login and Register
+- Registeration Form
+- Profile Dashboard
+- About Us
+- Proshow
