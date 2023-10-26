@@ -1,8 +1,8 @@
 # Pending pages for the main website
 ## Urgent
-- Login (Figma Initial Draft done)
-- Register
-- Registration Form
+- Login (Figma Initial Draft done) [Taken by Prabhat]
+- Register [Taken by Prabhat]
+- Registration Form [Taken by Hemanth]
 - Profile Dashboard
 - Splash Screen
 - About Us
