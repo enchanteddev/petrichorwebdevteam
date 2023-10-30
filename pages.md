@@ -1,7 +1,7 @@
 # Pending pages for the main website
 ## Urgent
-- Login (Figma Initial Draft done) [Taken by Prabhat]
-- Register [Taken by Prabhat]
+- Login (Figma Initial Draft done) [Done by Prabhat]
+- Register [Done by Prabhat]
 - Registration Form [Taken by Hemanth]
 - Profile Dashboard
 - Splash Screen
@@ -11,7 +11,7 @@
 - Merch
 - Schedule
 ## Pages
-### Login + Register
+### Login + Register [Completed]
 Constraints and Validations:
 
 - Email validation
