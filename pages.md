@@ -2,7 +2,7 @@
 ## Urgent
 - Login (Figma Initial Draft done) [Done by Prabhat]
 - Register [Done by Prabhat]
-- Registration Form [Taken by Hemanth]
+- Registration Form [Done by Hemanth]
 - Profile Dashboard
 - Splash Screen
 - About Us
